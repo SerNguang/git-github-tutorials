@@ -5,3 +5,9 @@ Tohs-MBP:git-github-tutorials toh$ git rm --cached documentation
 Tohs-MBP:git-github-tutorials toh$ git add .
 Tohs-MBP:git-github-tutorials toh$ git status
 Tohs-MBP:git-github-tutorials toh$ git commit -m 'First Commit'
+Tohs-MBP:git-github-tutorials toh$ git branch login
+Tohs-MBP:git-github-tutorials toh$ git checkout login
+Tohs-MBP:git-github-tutorials toh$ git checkout master
+
+Tohs-MBP:git-github-tutorials toh$ git remote add origin https://github.com/SerNguang/git-github-tutorials.git
+Tohs-MBP:git-github-tutorials toh$ git push -u origin master
