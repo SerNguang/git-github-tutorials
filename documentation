@@ -2,3 +2,6 @@ git init
 Tohs-MBP:git-github-tutorials toh$ git config --global user.email 'nguangser@gmail.com'
 Tohs-MBP:git-github-tutorials toh$ git config --global user.name 'toh'
 Tohs-MBP:git-github-tutorials toh$ git rm --cached documentation
+Tohs-MBP:git-github-tutorials toh$ git add .
+Tohs-MBP:git-github-tutorials toh$ git status
+Tohs-MBP:git-github-tutorials toh$ git commit -m 'First Commit'
